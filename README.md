@@ -1,4 +1,4 @@
-# Firearm Carriers Detection
+# Detecting Fiream and Firearm-Carriers Pairs
 
 **Paper Title:** Detection and Localization of Firearm Carriers in Complex Scenes for Improved Safety Measures
 
