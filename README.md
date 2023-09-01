@@ -3,6 +3,7 @@
 **Paper Title:** Detection and Localization of Firearm Carriers in Complex Scenes for Improved Safety Measures
 
 **Authors :** Arif Mahmood, Abdul Basit, M. Akhtar Munir, Mohsen Ali
+
 **Venue :  ** IEEE Transactions on Computational Social Systems
 
 **Paper** available [here](https://comingSoon)
