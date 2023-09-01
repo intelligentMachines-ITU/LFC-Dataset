@@ -1,4 +1,4 @@
-# Detecting Fiream (weapons) and Firearm (weapon)-Carriers Pairs in images
+# Detecting Fiream (weapons) and Firearm (weapon)-Carriers Pairs in images using Deep Learning
 
 **Paper Title:** Detection and Localization of Firearm Carriers in Complex Scenes for Improved Safety Measures
 
