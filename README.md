@@ -3,7 +3,7 @@
 **Paper Title:** Detection and Localization of Firearm Carriers in Complex Scenes for Improved Safety Measures
 
 **Authors :** Arif Mahmood, Abdul Basit, M. Akhtar Munir, Mohsen Ali
-
+**Venue :  ** IEEE Transactions on Computational Social Systems
 
 **Paper** available [here](https://comingSoon)
 
@@ -38,5 +38,11 @@ line approach (AP=63.1%). This demonstrates the effectiveness
 of leveraging attention mechanisms and saliency-driven locality
 preservation for accurate human-firearm interaction detection.
 
+Citation: @article{mahmood2023detection,
+  title={Detection and Localization of Firearm Carriers in Complex Scenes for Improved Safety Measures},
+  author={Mahmood, Arif and Basit, Abdul and Munir, M. Akhtar and Ali, Mohsen},
+  year={2023},
+  journal={IEEE Transactions on Computational Social Systems}
+}
 
 
