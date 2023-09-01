@@ -4,7 +4,7 @@
 
 **Authors :** Arif Mahmood, Abdul Basit, M. Akhtar Munir, Mohsen Ali
 
-**Venue :  ** IEEE Transactions on Computational Social Systems
+Venue : IEEE Transactions on Computational Social Systems
 
 **Paper** available [here](https://comingSoon)
 
